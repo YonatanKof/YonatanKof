@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I’m _Yonatan Ben Knaan_, a graphic designer, friend, lover, family man, an alright dude, and a mismatched persona from _Tel Aviv_, the cultural capital of the flaming Middle East.
+
+
 <!--
 **YonatanKof/YonatanKof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
