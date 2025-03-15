@@ -1,4 +1,5 @@
-## Hello, שלום, Привіт, مرحبًا, Hola, こんにちは, Hey, Bonjour, Salut, 你好, Привет 👋🏻
+## Hello, नमस्ते, 你好, Hola, Bonjour, مرحبًا, হ্যালো, Привет, Olá, Halo, ہیلو, Hallo, こんにちは, Xin chào, Merhaba, 你好, שלום 👋🏻
+<!-- ## Hello, שלום, Привіт, مرحبًا, Hola, こんにちは, Hey, Bonjour, Salut, 你好, Привет 👋🏻 -->
 
 ![kof-cover](kof-cover.svg#gh-light-mode-only)
 ![kof-cover-dark](kof-cover-dark.svg#gh-dark-mode-only)
