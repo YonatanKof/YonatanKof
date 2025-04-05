@@ -12,18 +12,19 @@
 
     .kofff {
       animation: animmm ease-in-out 2s infinite alternate;
-      fill: #FAEBD7;
+      fill: #1D3030;
     }
   </style>
   <g fill="none" fill-rule="evenodd">
-    <rect class="kofff" width="200" height="800" x="181" y="0" transform-origin="91 400" fill-opacity="0.35"/>
-    <rect class="kofff" width="200" height="800" x="543" y="0" transform-origin="451 400"
-      style="animation-delay: -0.5s" fill-opacity="0.7" />
-    <rect class="kofff" width="200" height="800" x="905" y="0" transform-origin="815 400" style="animation-delay: -1s" />
+    <rect class="kofff" width="200" height="800" x="181" y="0" transform-origin="91 400" fill-opacity="0.35" />
+    <rect class="kofff" width="200" height="800" x="543" y="0" transform-origin="451 400" style="animation-delay: -0.5s"
+      fill-opacity="0.7" />
+    <rect class="kofff" width="200" height="800" x="905" y="0" transform-origin="815 400"
+      style="animation-delay: -1s" />
     <rect class="kofff" width="200" height="800" x="1267" y="0" transform-origin="1248 400"
       style="animation-delay: -1.5s" fill-opacity="0.7" />
-    <rect class="kofff" width="200" height="800" x="1629" y="0" transform-origin="1610 400"
-      style="animation-delay: -2s" fill-opacity="0.35"/>
+    <rect class="kofff" width="200" height="800" x="1629" y="0" transform-origin="1610 400" style="animation-delay: -2s"
+      fill-opacity="0.35" />
   </g>
   <g id="kof-script-24-3d" opacity="0.99" transform="translate(715.6182, 160)">
     <path
