@@ -1,8 +1,11 @@
-## Hello, नमस्ते, 你好, Hola, Bonjour, مرحبًا, হ্যালো, Привет, Olá, Halo, ہیلو, Hallo, こんにちは, Xin chào, Merhaba, 你好, שלום 👋🏻
+## Hello, Привет, ہیلو, שלום 👋🏻
+<!-- ## Hello, नमस्ते, 你好, Hola, Bonjour, مرحبًا, হ্যালো, Привет, Olá, Halo, ہیلو, Hallo, こんにちは, Xin chào, Merhaba, 你好, שלום 👋🏻 -->
 <!-- ## Hello, שלום, Привіт, مرحبًا, Hola, こんにちは, Hey, Bonjour, Salut, 你好, Привет 👋🏻 -->
 
-<img src="kof-cover.svg#gh-light-mode-only" alt="kof-cover" style="max-width: 640px;">
-<img src="kof-cover-dark.svg#gh-dark-mode-only" alt="kof-cover-dark" style="max-width: 640px;">
+<picture style="max-width: 640px; display: block;">
+  <source srcset="kof-cover-dark.svg" media="(prefers-color-scheme: dark)">
+  <img src="kof-cover.svg" alt="kof-cover" style="width: 100%;">
+</picture>
 
 I’m _Yonatan Ben Knaan_, A full stack product designer and an alright dude form TLV
 
