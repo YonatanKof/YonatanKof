@@ -6,7 +6,7 @@
 ![kof-dark](kof-dark.svg#gh-dark-mode-only)
 
 I’m _Yonatan Ben Knaan_, A full stack product designer and an alright dude form TLV  
-I build website for fun and my-go to is Vue, Nuxt, Netlify and dash of Notion API.
+I build website for fun and my-go to is Vue, Nuxt, Netlify and dash of Notion API
 
 Currently a **product designer** at [Walnut](walnut.io)
 
