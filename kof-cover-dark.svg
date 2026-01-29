@@ -11,7 +11,7 @@
     }
 
     .kofff {
-      animation: animmm ease-in-out 2s infinite alternate;
+      animation: animmm ease-in-out 3s infinite alternate;
       fill: #FAEBD7;
     }
   </style>
