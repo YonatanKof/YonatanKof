@@ -8,7 +8,7 @@
 I’m _Yonatan Ben Knaan_, A full stack product designer and an alright dude form TLV  
 I build website for fun and my-go to is Vue, Nuxt, Netlify and dash of Notion API
 
-Currently a **product designer** at [Port.io](https://www.port.io/)
+Currently a **product designer** and **design engineer** at [Port.io](https://www.port.io/)
 
 ### Checkout some sites I've built 
 
